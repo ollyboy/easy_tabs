@@ -1,0 +1,20 @@
+{
+    "name": "ollyboy/easy_tabs",
+    "type": "magento-module",
+    "homepage": "https://github.com/ollyboy/easy_tabs",
+    "license": "OSL-3.0",
+    "description": "Tabs for product page",
+    "version": "2.3.4",
+    "authors": [
+        {
+            "name": "Template Masters Team",
+            "email": "support@templates-master.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://tmhub.github.io/packages/"
+        }
+    ]
+}
